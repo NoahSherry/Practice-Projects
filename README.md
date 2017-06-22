@@ -6,7 +6,7 @@
 - If you'd like to test one of the programs, follow the instructions below.
 
 # Instructions
-- Calculator
+- Calculator: Before running, make sure you have the latest version of Java installed for your machine: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
   - Windows
     1. Download Caculator.java and logo.txt into the same folder or directory.
     2. Open up Command Prompt in the same folder/directory and type "javac Calculator.java" without quotes and press enter to compile the program.
