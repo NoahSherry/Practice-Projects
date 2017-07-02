@@ -1,0 +1,6 @@
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\bin\Debug\PortScan.exe.config
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\bin\Debug\PortScan.exe
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\bin\Debug\PortScan.pdb
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\obj\Debug\PortScan.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\obj\Debug\PortScan.exe
+C:\Users\Noah\Desktop\GitHub Practice\Port Scanner\C#\PortScan\obj\Debug\PortScan.pdb
