@@ -1,7 +1,7 @@
 # Practice Projects
 - This is a repository containing various programs made simply for practice or experiments.
 - Current Projects include:
-  -Puzzler: That's probably what you're here for.
+  - Puzzler: That's probably what you're here for.
   - Calculator
     - Console version in Java
     - Windows Form in C#
